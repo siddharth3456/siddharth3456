@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **📧 Email : siddharth.takyal123@gmail.com**
 
-- 📄 Resume. [https://drive.google.com/file/d/1PrncXE-kiXY1VF8nAdWWXD6mHwiN-mWu/view?usp=drive_link](https://drive.google.com/file/d/1PrncXE-kiXY1VF8nAdWWXD6mHwiN-mWu/view?usp=drive_link)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1PrncXE-kiXY1VF8nAdWWXD6mHwiN-mWu/view)
+
 
 - ⚡ Fun Fact **I enjoy learning new technologies and turning ideas into impactful projects 🚀**
 
