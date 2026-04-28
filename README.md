@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20%26%20Data%20Science&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Analyze%20•%20Model%20•%20Visualize%20•%20Innovate&descAlignY=60&descSize=18" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Siddharth Saini</h1>
-<h3 align="center">🤖 AI & Data Science Engineer | Python • SQL • ML/DL • Power BI | 3x National Science Day Winner 🏆</h3>
+<h3 align="center">🤖 AI & Data Science Student | Python • SQL • ML/DL • Power BI | 3x National Science Day Winner 🏆</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddharth3456&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -10,82 +14,61 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Siddharth.takyal123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/India-🇮🇳-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```python
-siddharth = {
-    "degree"    : "B.Tech in AI & Data Science (CGPA: 8.4) — CGC Landran, Punjab",
-    "skills"    : ["Python", "SQL", "R", "C++", "Machine Learning", "Deep Learning"],
-    "tools"     : ["Power BI", "Tableau", "Databricks", "MongoDB", "MySQL"],
-    "libraries" : ["Pandas", "NumPy", "Matplotlib", "NLTK", "Scikit-learn"],
-    "ai_focus"  : ["LLMs", "RAG", "NLP", "Computer Vision"],
-    "fun_fact"  : "3x National Science Day Winner (2023, 2024, 2025) 🏆🚀"
-}
-```
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+- 🎓 Pursuing **B.Tech in AI & Data Science** @ CGC Landran, Punjab *(CGPA: 8.4)*
+- 🤖 Passionate about **Machine Learning, Deep Learning & AI-driven solutions**
+- 🔭 Currently exploring **LLMs, RAG & Computer Vision**
+- 📊 Skilled in transforming raw data into **actionable insights** using Power BI & Tableau
+- 🏆 **3x National Science Day Winner** (2023, 2024 & 2025)
+- 💡 Participated in **4 Hackathons** & **2 Startup Events**
+- 📫 Reach me at **Siddharth.takyal123@gmail.com**
+- ⚡ Fun Fact: I enjoy learning new technologies and turning ideas into impactful projects 🚀
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,r" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 🤖 AI / ML / Data Science
 
-### 📚 Libraries & Frameworks
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+### 🌐 Web & Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Projects
-
-### 📦 Amazon Sales Data Analysis
-> **Tech:** SQL • MySQL • Excel • Tableau
-
-- Designed a SQL database schema for Amazon product and sales data
-- Wrote complex SQL queries to identify top products by profit, analyze category sales, and track trends
-- Built an interactive **Tableau dashboard** with bar charts, treemaps & line charts for key business insights
-
----
-
-### 🎓 Student Performance Management System
-> **Tech:** Python (Flask) • MongoDB • Matplotlib • Pandas • NumPy
-
-- Designed a MongoDB database with full **CRUD operations** for student records
-- Performed data analysis to calculate class averages and compare student performance
-- Built **interactive visualizations** for CGPA trends and performance comparisons using Matplotlib
-
----
-
-## 🏅 Certifications
-
-| Certificate | Platform | Date |
-|---|---|---|
-| Apache Spark / PySpark using Databricks | Udemy | Jan 2025 |
-| Data Science & Machine Learning with R | Udemy | Nov 2024 |
-| SQL – MySQL for Data Analytics | Udemy | Jul 2024 |
-| Python | HackerRank | Jun 2024 |
 
 ---
 
@@ -119,9 +102,5 @@ siddharth = {
 ---
 
 <p align="center">
-  <i>💡 "I enjoy learning new technologies and turning ideas into impactful project 🚀"</i>
-</p>
-
-<p align="center">
-  📞 +91 90273 33531 &nbsp;|&nbsp; 📧 Siddharth.takyal123@gmail.com &nbsp;|&nbsp; 📍 India
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
