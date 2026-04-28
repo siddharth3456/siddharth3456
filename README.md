@@ -119,7 +119,7 @@ siddharth = {
 ---
 
 <p align="center">
-  <i>💡 "I enjoy learning new technologies and turning ideas into impactful projects 🚀"</i>
+  <i>💡 "I enjoy learning new technologies and turning ideas into impactful project 🚀"</i>
 </p>
 
 <p align="center">
