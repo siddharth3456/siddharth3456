@@ -1,19 +1,127 @@
 <h1 align="center">Hi 👋, I'm Siddharth Saini</h1>
-<h3 align="center">A passionate AI & Data Science student building real-world solutions with code</h3>
+<h3 align="center">🤖 AI & Data Science Engineer | Python • SQL • ML/DL • Power BI | 3x National Science Day Winner 🏆</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth34565&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth34565" /> </p>
-
-- 📫 How to reach me **📧 Email : siddharth.takyal123@gmail.com**
-
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1PrncXE-kiXY1VF8nAdWWXD6mHwiN-mWu/view)
-
-
-- ⚡ Fun Fact **I enjoy learning new technologies and turning ideas into impactful projects 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddharth-saini-2b2b70297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddharth-saini-2b2b70297" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddharth3456&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/siddharth3456?label=Followers&style=social" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Siddharth.takyal123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/India-🇮🇳-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+```python
+siddharth = {
+    "degree"    : "B.Tech in AI & Data Science (CGPA: 8.4) — CGC Landran, Punjab",
+    "skills"    : ["Python", "SQL", "R", "C++", "Machine Learning", "Deep Learning"],
+    "tools"     : ["Power BI", "Tableau", "Databricks", "MongoDB", "MySQL"],
+    "libraries" : ["Pandas", "NumPy", "Matplotlib", "NLTK", "Scikit-learn"],
+    "ai_focus"  : ["LLMs", "RAG", "NLP", "Computer Vision"],
+    "fun_fact"  : "3x National Science Day Winner (2023, 2024, 2025) 🏆🚀"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,r" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 📚 Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📦 Amazon Sales Data Analysis
+> **Tech:** SQL • MySQL • Excel • Tableau
+
+- Designed a SQL database schema for Amazon product and sales data
+- Wrote complex SQL queries to identify top products by profit, analyze category sales, and track trends
+- Built an interactive **Tableau dashboard** with bar charts, treemaps & line charts for key business insights
+
+---
+
+### 🎓 Student Performance Management System
+> **Tech:** Python (Flask) • MongoDB • Matplotlib • Pandas • NumPy
+
+- Designed a MongoDB database with full **CRUD operations** for student records
+- Performed data analysis to calculate class averages and compare student performance
+- Built **interactive visualizations** for CGPA trends and performance comparisons using Matplotlib
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Platform | Date |
+|---|---|---|
+| Apache Spark / PySpark using Databricks | Udemy | Jan 2025 |
+| Data Science & Machine Learning with R | Udemy | Nov 2024 |
+| SQL – MySQL for Data Analytics | Udemy | Jul 2024 |
+| Python | HackerRank | Jun 2024 |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Position** — National Science Day Project Exhibition (2025 & 2024)
+- 🥉 **3rd Position** — National Science Day Project Exhibition (2023)
+- 💻 Participated in **4 Hackathons** and **2 Startup Events**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth3456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth3456&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth3456&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddharth3456&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "I enjoy learning new technologies and turning ideas into impactful projects 🚀"</i>
+</p>
+
+<p align="center">
+  📞 +91 90273 33531 &nbsp;|&nbsp; 📧 Siddharth.takyal123@gmail.com &nbsp;|&nbsp; 📍 India
+</p>
